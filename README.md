@@ -1,4 +1,4 @@
-This repository consists of Datascience projects related to
+This repository features a range of Data Science projects covering:
   1. Simple Linear Regression
   2. Multi Linear Regression
   3. Polynomial Regression
